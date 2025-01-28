@@ -1,6 +1,6 @@
 import Link from "next/link";
 
-export function HeaderComponent() {
+export function Header() {
 	console.log("Header");
 return (
 	<header>

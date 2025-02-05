@@ -14,3 +14,7 @@ insert_final_newline = false
 [*.tsx]
 indent_style = tab
 indent_size = 2 
+
+[*.sass]
+indent_style = space
+indent_size = 2

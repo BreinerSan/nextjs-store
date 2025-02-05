@@ -1,0 +1,17 @@
+.Hero {
+	margin: 10rem;
+}
+
+.Hero > h1 {
+	font-size: 3rem;
+	font-weight: bold;
+	color: blueviolet;
+	text-align: center;
+}
+
+.Hero > h2 {
+	font-size: 2rem;
+	font-weight: normal;
+	color: greenyellow;
+	text-align: center;
+}
